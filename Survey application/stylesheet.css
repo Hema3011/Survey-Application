@@ -1,0 +1,47 @@
+h3{
+	background-color: #33A1DE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	text-align: center;
+	
+}
+p , form{
+
+	padding-left: 10px;
+}
+
+p.questions {
+color: #33A1DE;
+font-size: 20px;
+	
+}
+
+.rect{
+	width:1000px;
+	height: 1500px;
+	border-radius: 10px;
+  background-color: white ;
+  border: 1px solid black;
+  opacity: 1;
+  text-align: left;
+  margin:auto;
+}
+
+button{
+background-color: #33A1DE;
+	width:80px;
+	height:30px;
+	border-radius: 10px;
+	align-content: center;
+	color: white;
+	text-align: center;
+
+}
+
+.Comment{
+	width: 400px;
+	height: 100px;
+
+}
+
